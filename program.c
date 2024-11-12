@@ -1,4 +1,4 @@
-// Binary Euclidean Algorithm
+// Binary GCD Algorithm
 
 #include <stdio.h>
 
